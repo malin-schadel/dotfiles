@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = malin.schadel@gmail.com
+	name = Malin Schadel
